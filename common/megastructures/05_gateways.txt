@@ -20,7 +20,6 @@ gateway_0 = {
 	construction_blocked_by_others = no
 
 	bypass_type = gateway
-
 	potential = {
 		has_technology = tech_gateway_construction
 	}
